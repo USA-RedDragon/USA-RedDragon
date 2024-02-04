@@ -22,4 +22,4 @@ I'm a DevOps Engineer and amateur radio operator. I'm a polyglot programmer with
 
 ### Stats
 
-[![USA-RedDragon's GitHub stats](https://github-readme-stats.vercel.app/api?username=USA-RedDragon&theme=transparent&show_icons=true&hide_title=true&include_all_commits=true&hide_rank=true&disable_animations=true)](https://github.com/anuraghazra/github-readme-stats)
+[![USA-RedDragon's GitHub stats](https://github-readme-stats.vercel.app/api?username=USA-RedDragon&theme=transparent&show_icons=true&hide_title=true&disable_animations=true)](https://github.com/anuraghazra/github-readme-stats)
