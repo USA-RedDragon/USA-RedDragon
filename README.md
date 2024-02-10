@@ -7,6 +7,7 @@ I'm a DevOps Engineer and amateur radio operator. I'm a polyglot programmer with
 - 🔭 I am an amateur astrophotographer, see my work at <https://astro.garden>
 - 📘 I have a portfolio site at <https://jacob.mcswain.dev>
 - 📱 I used to be an Android ROM and kernel developer. At separate points I worked on Invictrix, Desolation, Bliss, Fusion, and Carbon.
+- 📘 Looking for an old project of mine? I mirror my GitHub and all previously-archived projects to a Gitea instance at <https://git.mcswain.dev/USA-RedDragon>
 
 ### Major Projects
 
