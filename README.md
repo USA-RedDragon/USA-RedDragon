@@ -1,3 +1,8 @@
+<a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+  <img align="center" alt="USA-RedDragon Trophies" src="https://github-profile-trophy.vercel.app/?username=USA-RedDragon&rank=-C,-B,-A&row=3&column=-1&theme=onestar&no-bg=true&no-frame=true" />
+</a>
+<br />
+
 ### About me
 
 I'm a DevOps Engineer and amateur radio operator. I'm a polyglot programmer with Go being my primary language, and I run my own Kubernetes cluster at home.
@@ -29,9 +34,9 @@ I'm a DevOps Engineer and amateur radio operator. I'm a polyglot programmer with
 
 ### Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
   <img height=200 align="center" alt="USA-RedDragon's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=USA-RedDragon&theme=transparent&show_icons=true&hide_title=true&disable_animations=true" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
   <img height=200 align="center" alt="USA-RedDragon's GitHub languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=USA-RedDragon&theme=transparent&show_icons=true&hide_title=true&disable_animations=true&size_weight=1&langs_count=10&exclude_repo=vtun,olsrd,Pi-Star-OS-Diff,docker-vlmcsd,SDRain&hide=css,makefile,html&layout=compact" />
 </a>
