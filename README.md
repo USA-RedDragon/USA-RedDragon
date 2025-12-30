@@ -1,8 +1,3 @@
-<a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-  <img align="center" alt="USA-RedDragon Trophies" src="https://github-profile-trophy.vercel.app/?username=USA-RedDragon&rank=-C,-B,-A&row=3&column=-1&theme=onestar&no-bg=true&no-frame=true" />
-</a>
-<br />
-
 ### About me
 
 I'm a DevOps Engineer and amateur radio operator. I'm a polyglot programmer with Go being my primary language, and I run my own Kubernetes cluster at home.
