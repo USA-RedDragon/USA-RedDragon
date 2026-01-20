@@ -13,7 +13,7 @@ I'm a DevOps Engineer and amateur radio operator. I'm a polyglot programmer with
 
 - 🎙️ [DMRHub](https://github.com/USA-RedDragon/DMRHub) - Run a DMR network server with a frontend, authentication, private and group calls and a parrot all in a single binary
 - 🗺️ [RTZ](https://github.com/USA-RedDragon/rtz-server) - An implementation of the Comma.ai API service for self-hosted folks 
-- 🎮 [Jaxex Launcher Linux Flatpak](https://github.com/USA-RedDragon/jagex-launcher-linux-flatpak) - The Jagex Launcher for Linux in Flatpak form.
+- 🎮 [Jagex Launcher Linux Flatpak](https://github.com/USA-RedDragon/jagex-launcher-linux-flatpak) - The Jagex Launcher for Linux in Flatpak form.
 - 📡 [AREDN Cloud Tunnel](https://github.com/USA-RedDragon/aredn-cloud-tunnel/) - Run an AREDN tunnel server or Supernode in a Docker container without any RF capabilities.
 - 🎮 [GBA Emulator](https://github.com/USA-RedDragon/go-gba) - A toy GBA emulator written in Go to help me learn the inner workings of an ARM7TDMI CPU
 
