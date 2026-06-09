@@ -31,8 +31,8 @@ I'm a DevOps Engineer and amateur radio operator. I'm a polyglot programmer with
 ### Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-  <img height=200 align="center" alt="USA-RedDragon's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=USA-RedDragon&theme=transparent&show_icons=true&hide_title=true&disable_animations=true" />
+  <img height=200 align="center" alt="USA-RedDragon's GitHub stats" src="https://github-stats-extended.vercel.app/api?username=USA-RedDragon&theme=transparent&show_icons=true&hide_title=true&disable_animations=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-  <img height=200 align="center" alt="USA-RedDragon's GitHub languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=USA-RedDragon&theme=transparent&show_icons=true&hide_title=true&disable_animations=true&size_weight=1&langs_count=10&exclude_repo=vtun,olsrd,Pi-Star-OS-Diff,docker-vlmcsd,SDRain&hide=css,makefile,html&layout=compact" />
+  <img height=200 align="center" alt="USA-RedDragon's GitHub languages" src="https://github-stats-extended.vercel.app/api/top-langs?username=USA-RedDragon&theme=transparent&show_icons=true&hide_title=true&disable_animations=true&size_weight=1&langs_count=10&exclude_repo=vtun,olsrd,Pi-Star-OS-Diff,docker-vlmcsd,SDRain&hide=css,makefile,html&layout=compact" />
 </a>
