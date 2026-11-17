@@ -12,19 +12,24 @@ I'm a DevOps Engineer and amateur radio operator. I'm a polyglot programmer with
 ### Major Projects
 
 - 🎙️ [DMRHub](https://github.com/USA-RedDragon/DMRHub) - Run a DMR network server with a frontend, authentication, private and group calls and a parrot all in a single binary
-- 🗺️ [RTZ](https://github.com/USA-RedDragon/rtz-server) - An implementation of the Comma.ai API service for self-hosted folks 
-- 🎮 [Jagex Launcher Linux Flatpak](https://github.com/USA-RedDragon/jagex-launcher-linux-flatpak) - The Jagex Launcher for Linux in Flatpak form.
-- 📡 [AREDN Cloud Tunnel](https://github.com/USA-RedDragon/aredn-cloud-tunnel/) - Run an AREDN tunnel server or Supernode in a Docker container without any RF capabilities.
-- 🎮 [GBA Emulator](https://github.com/USA-RedDragon/go-gba) - A toy GBA emulator written in Go to help me learn the inner workings of an ARM7TDMI CPU
+- 🎮 [Rustyboi](https://github.com/USA-RedDragon/rustyboi) - A GB/GBC emulator written in Rust
+- 📝 [docgen](https://github.com/USA-RedDragon/docgen) - Fills the facts in your Markdown docs from your Go and Rust code
+- ⚙️ [configulator](https://github.com/USA-RedDragon/configulator) and [configulator-rs](https://github.com/USA-RedDragon/configulator-rs) - Configuration managers for Go and Rust apps
+- 🤖 [Talaria](https://github.com/USA-RedDragon/talaria) - A self-hosted web app and Telegram bot for your own AI agent, built on Hermes Agent
+- 📡 [dmrgo](https://github.com/USA-RedDragon/dmrgo) - Decode and encode DMR (Digital Mobile Radio) bursts and PDUs as defined in ETSI TS 102 361
+- 🕹️ [relift](https://github.com/USA-RedDragon/relift) - A cross-platform static recompiler that turns console game code into portable C for native builds
 
 ### Minor Projects
 
+- 🗺️ [RTZ](https://github.com/USA-RedDragon/rtz-server) - An implementation of the Comma.ai API service for self-hosted folks
 - 📈 [metrics-actioner](https://github.com/USA-RedDragon/metrics-actioner) - Perform in-cluster actions based on AlertManager alerts
-- 🍵 [gitea-mirror](https://github.com/USA-RedDragon/gitea-mirror) - A simple Go program to mirror repositories from GitHub to Gitea
-- 📻 [Trunk Recorder Prometheus Exporter](https://github.com/USA-RedDragon/trunk-recorder-prometheus) - This is a plugin for [Trunk Recorder](https://github.com/robotastic/trunk-recorder) that publishes metrics in Prometheus format.
-- 📻 [Trunk Recorder SoapySDRPlay3](https://github.com/USA-RedDragon/trunk-recorder-soapysdrplay3) -  These are images of [Trunk Recorder](https://github.com/robotastic/trunk-recorder) with the [pothosware/SoapySDRPlay3](https://github.com/pothosware/SoapySDRPlay3) library installed along with the SDRPlay API v3.07 for use with SDRPlay receivers.
-- 🔍 [Kiri Revision Inspector GitHub Action](https://github.com/USA-RedDragon/kiri-github-action) - This is a GitHub action that uses the [Kiri Revision Inspector](https://github.com/leoheck/kiri) to generate visual diffs for hardware projects using KiCad.
-- 🦕 [Palworld Server](https://github.com/USA-RedDragon/palworld-server-docker) - Runs a Palworld dedicated server in Docker/Kubernetes.
+- 💾 [b2-backup-operator](https://github.com/USA-RedDragon/b2-backup-operator) - A Kubernetes operator and kubectl plugin that run restic backups to Backblaze B2
+- 📧 [ses-email-service](https://github.com/USA-RedDragon/ses-email-service) - An SMTP proxy for Amazon SES with AWS bounce and complaint handling
+- 🔌 [ipsc2mmdvm](https://github.com/USA-RedDragon/ipsc2mmdvm) - Treat your Motorola IPSC repeater like an MMDVM
+- 🧠 [pi-zero-fram](https://github.com/USA-RedDragon/pi-zero-fram) - Bare-metal Rust for the Raspberry Pi Zero 2 W that exposes an FRAM chip as an editable text file over USB serial
+- 🦙 [ollama-priority-proxy](https://github.com/USA-RedDragon/ollama-priority-proxy) - A priority proxy for Ollama: people's requests first, background work queued behind
+- 🛜 [meshtastic-serial-udp](https://github.com/USA-RedDragon/meshtastic-serial-udp) - A lightweight Rust bridge that connects a USB-serial Meshtastic radio to the LAN over UDP multicast, small enough for OpenWrt routers
+- ⛏️ [docker-minecraft](https://github.com/USA-RedDragon/docker-minecraft) - Minecraft server images for Paper, Fabric, Forge and NeoForge
 - 🐳 [Dockers](https://github.com/USA-RedDragon/dockers) - These are container images I maintain for third-party software.
 - ☸ [My Flux Home Kubernetes Cluster repo](https://github.com/USA-RedDragon/home-cluster-flux/) - Contains all the manifests for apps I run in my home Kubernetes cluster.
 
